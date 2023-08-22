@@ -3,7 +3,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/pablo-dezuani-5ab941171/">Pablo Dezuani 😃️</a>
+    <a href="https://www.linkedin.com/in/pablo-dezuani-5ab941171/">Pablo Dezuani</a>
   </h1>
   
   <p align="center">
