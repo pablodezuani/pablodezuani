@@ -5,15 +5,6 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/pablo-dezuani-5ab941171/">Pablo Dezuani</a>
   </h1>
-  
-  <p align="center">
- Sou graduado em Análise e Desenvolvimento de Sistemas pela FMU. Minha meta é aplicar as valiosas experiências que acumulei ao longo da minha trajetória e colaborar com a empresa que compartilhe da mesma visão. Tenho um firme desejo de contribuir para otimizar as operações, auxiliando os colaboradores a desempenhar suas tarefas diárias com maior eficiência.Minha paixão pelo desenvolvimento de sistemas me direcionou ao foco especial no desenvolvimento mobile, utilizando a tecnologia React Native. Acredito que a área de desenvolvimento mobile é emocionante e em constante evolução, capaz de criar soluções inovadoras que têm um impacto positivo na vida das pessoas. Estou ansioso para enfrentar os desafios desta área e criar aplicativos envolventes e funcionais que atendam às necessidades dos usuários.
-
- 
-  </p>
-  
-
-  
 </div>
 
 <div align="center">
