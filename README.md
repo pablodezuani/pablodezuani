@@ -1,11 +1,4 @@
 
-<div>
-  
-  <h1 align="left">
-    Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/pablo-dezuani-5ab941171/">Pablo Dezuani</a>
-  </h1>
-</div>
 
 <div align="center">
   <a href="https://github.com/pablodezuani">
