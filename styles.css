@@ -1,0 +1,114 @@
+/* Estilos gerais */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Estilos para as seções */
+section {
+  margin: 20px;
+  padding: 20px;
+  background: #ebf0fa;
+  border-radius: 5px;
+}
+
+/* Estilos para os cabeçalhos das seções */
+section div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ebf0fa;
+  padding: 20px 40px;
+  border-radius: 5px;
+}
+
+/* Estilos para os títulos das seções */
+section span {
+  font-weight: 700;
+  font-size: 32px;
+  color: #3d557d;
+}
+
+/* Estilos para os parágrafos */
+p {
+  font-size: 16px;
+}
+
+/* Estilos para as listas */
+ul, ol {
+  padding-left: 20px;
+}
+
+/* Estilos para os itens de lista */
+li {
+  margin-bottom: 8px;
+}
+
+/* Estilos para as tabelas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Estilos para as células de cabeçalho */
+th {
+  background-color: #ebf0fa;
+  font-weight: bold;
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #d8e4eb;
+}
+
+/* Estilos para as células de dados */
+td {
+  padding: 8px;
+  border-bottom: 1px solid #d8e4eb;
+}
+
+/* Estilos para as divs de classificação */
+div {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Estilos para os níveis de classificação */
+div span {
+  color: #212529;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+/* Estilos para as cores de classificação */
+div div {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: #d8e4eb;
+  border-radius: 16px;
+  padding: 24px;
+  gap: 24px;
+}
+
+/* Estilos para as cores de prioridade */
+div div div {
+  background: #aff4c6;
+  color: #ffffff;
+  padding: 4px 20px;
+  border-radius: 32px;
+}
+
+/* Estilos para as cores de complexidade */
+div div div {
+  background: #952225;
+  color: #ffffff;
+  padding: 4px 20px;
+  border-radius: 32px;
+}
+
+/* Estilos para as cores de valor no negócio */
+div div div {
+  background: #0abf7d;
+  color: #ffffff;
+  padding: 4px 20px;
+  border-radius: 32px;
+}
